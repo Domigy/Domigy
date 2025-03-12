@@ -72,12 +72,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=domigy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domigy&hide_border=true&layout=compact" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=domigy&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>  
 
 <br/>  
 
-
-<br/>  
 
   
 
